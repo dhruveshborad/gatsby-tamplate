@@ -10,10 +10,10 @@ const Header = () => {
           <div className="container">
             <div className="row">
               <div className="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
-                <div className="full">
+                <div className="">
                   <div className="center-desk">
                     <div className="logo">
-                      <a href="#">
+                      <a href="/">
                         <img src={Logo} alt="logo" />
                       </a>
                     </div>
