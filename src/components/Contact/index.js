@@ -1,5 +1,5 @@
 import React from "react";
-import "./Contact.css"
+import "./Contact.css";
 import cac from "../../images/cac.png";
 const Contact = () => {
   return (
