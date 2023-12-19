@@ -1,0 +1,88 @@
+/** contact section **/
+.contact {
+    padding-top: 90px;
+}
+
+.titlepage {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.titlepage h2 {
+    font-weight: bold;
+    color: #2d2e2e;
+    line-height: 46px;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+
+.titlepage p {
+    color: #1d1d1d;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.contact .contact {
+    background: #fff;
+    width: 100%;
+    height: 100%;
+    padding: 36px;
+    border-radius: 30px;
+    border: #eec668 solid 7px;
+}
+
+.contact .contact .contactus {
+    border: #000 solid 1px;
+    padding: 0px 0px 12px 0px;
+    margin-bottom: 30px;
+    border-radius: inherit;
+    color: #000;
+    width: 100%;
+    border-top: inherit;
+    border-right: inherit;
+    border-left: inherit;
+    font-size: 17px;
+    line-height: 18px;
+}
+
+.contact .contact .textarea {
+    margin-bottom: 25px;
+    padding: 15px 0px;
+    border: transparent;
+    color: #000 !important;
+    width: 100%;
+    font-size: 17px;
+    line-height: 18px;
+    border-radius: inherit;
+    border: #000 solid 1px;
+    border-top: inherit;
+
+    border-right: inherit;
+
+    border-left: inherit;
+}
+
+.contact .contact .send {
+    font-size: 16px;
+
+    background-color: #000;
+    color: #fff;
+    padding: 10px 60px;
+    margin: 0 auto;
+    border-radius: 30px;
+    display: block;
+}
+
+.contact .contact .send:hover {
+    background-color: #f2740d;
+
+    color: #fff;
+}
+
+.rable-box figure {
+    margin: 0px;
+}
+
+.rable-box figure img {
+    width: 100%;
+}

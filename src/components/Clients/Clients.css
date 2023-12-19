@@ -1,0 +1,89 @@
+.clients {
+    background: #fff;
+    padding: 90px 0px;
+}
+
+.clients .titlepage {
+    padding-bottom: 30px;
+}
+
+.clients_slider .carousel-caption {
+    position: inherit;
+}
+
+.carousel-indicators .active {
+    background: #ecc161;
+}
+
+.carousel-indicators li {
+    background: #000000;
+    width: 20px;
+    height: 20px;
+}
+
+
+
+.img_box {
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+
+.pa_rile {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.img_box i img {
+    padding-right: 25px;
+    display: inline-block;
+    width: 65px;
+}
+
+.img_box figure {
+    margin: 0;
+}
+
+.img_box::after {
+    position: absolute;
+    content: "";
+    right: -23px;
+    transform: rotate(5deg);
+    width: 46px;
+    /* background: url(../../images/4.png); */
+    background-repeat: no-repeat;
+    height: 146px;
+    top: 92px;
+
+}
+
+.joe {
+    text-align: left;
+}
+
+.joe h3 {
+    font-size: 20px;
+    line-height: 20px;
+    color: #f0ca6c;
+    font-weight: bold;
+    padding: 0px 0px 20px 30px;
+}
+
+.joe p {
+    color: #fff;
+    display: inline-block;
+    padding: 25px;
+    background: #000;
+    margin-bottom: 30px;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    display: none;
+}
+
+.carousel-indicators {
+    left: inherit;
+    margin-right: 0;
+    bottom: 60px;
+}

@@ -1,0 +1,136 @@
+/** about section **/
+.Best {
+
+    padding-top: 90px;
+
+}
+
+.Best .titlepage {
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.Best .titlepage h2::before {
+    position: absolute;
+    content: "";
+    background: #ebbf60;
+    border-radius: 20px;
+    width: 20px;
+    height: 20px;
+    top: 15px;
+    margin-left: -37px;
+}
+
+.Best .titlepage h2::after {
+    position: absolute;
+    content: "";
+    background: #ebbf60;
+    border-radius: 20px;
+    width: 20px;
+    height: 20px;
+    top: 15px;
+    margin-left: 15px;
+}
+
+
+.best_text p {
+    font-size: 17px;
+    line-height: 28px;
+    color: #595959;
+    padding-bottom: 50px;
+}
+
+.best_text a {
+    background: #000;
+    border: #ebbf60 solid 3px;
+    width: 190px;
+    padding: 12px 0;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 30px;
+    color: #fff;
+    border-radius: 27px;
+    text-align: center;
+    float: right;
+}
+
+.best_text a:hover {
+    background: #f2740d;
+    color: #fff;
+}
+
+.best_img {
+    text-align: center;
+}
+
+.best_img::after {
+    position: absolute;
+    content: "";
+    width: 1269px;
+    height: 1232px;
+    background: url(../../images/croo.png);
+    top: -55px;
+    left: -157%;
+    right: 40px;
+    background-repeat: no-repeat;
+}
+
+.best_img figure {
+    margin: 0;
+}
+
+.best_img figure img {
+    width: 100%;
+    border: #eec668 solid 31px;
+    border-radius: 258px;
+}
+
+.best_img h4 {
+    color: #fff;
+    bottom: 74px;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    font-size: 20px;
+}
+
+.flot_left a {
+    float: left;
+}
+
+.best_main {
+    margin-bottom: 136px;
+}
+
+.croos_rt::after {
+    position: absolute;
+    content: "";
+    width: 1269px;
+    height: 1232px;
+    background: url(../../images/croo1.png);
+    top: -5px;
+    left: -80px;
+    background-repeat: no-repeat;
+}
+
+.best_img.croos_rt {
+    margin-top: 80px;
+}
+
+
+.d_none {
+    position: inherit;
+}
+
+.d_none {
+    margin-top: 80px;
+}
+
+.d_none::after {
+    position: inherit;
+}
+
+.pa_bot {
+    margin-bottom: 0;
+}
