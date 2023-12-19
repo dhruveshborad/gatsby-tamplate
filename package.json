@@ -1,8 +1,8 @@
 {
-  "name": "my-gatsby-site",
+  "name": "gatsby-template",
   "version": "1.0.0",
   "private": true,
-  "description": "my-gatsby-site",
+  "description": "gatsby-template",
   "author": "Dhruvesh",
   "keywords": [
     "gatsby"
@@ -16,16 +16,20 @@
   },
   "dependencies": {
     "@mdx-js/react": "^3.0.0",
-    "gatsby": "^5.13.0",
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.2",
+    "gatsby": "^5.12.12",
     "gatsby-plugin-google-gtag": "^5.13.0",
     "gatsby-plugin-image": "^3.13.0",
     "gatsby-plugin-manifest": "^5.13.0",
     "gatsby-plugin-mdx": "^5.13.0",
+    "gatsby-plugin-provide-react": "^1.0.2",
     "gatsby-plugin-sharp": "^5.13.0",
     "gatsby-plugin-sitemap": "^6.13.0",
     "gatsby-source-filesystem": "^5.13.0",
     "gatsby-transformer-remark": "^6.13.0",
     "gatsby-transformer-sharp": "^5.13.0",
+    "jquery": "^3.7.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
