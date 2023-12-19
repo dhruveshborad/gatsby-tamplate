@@ -1,5 +1,5 @@
 import React from "react";
-import "./clients.css";
+import "./Clients.css";
 import icon_1 from "../../images/icon_1.png";
 import clients from "../../images/clients.png";
 

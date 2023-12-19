@@ -1,7 +1,7 @@
 import * as React from "react";
 import Layout from "../components/Layout";
 import Best from "../components/Best";
-import Contact from "../components/contact";
+import Contact from "../components/Contact";
 import Clients from "../components/Clients";
 
 const pageStyles = {
